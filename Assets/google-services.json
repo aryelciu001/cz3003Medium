@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "67239517960",
+    "firebase_url": "https://cz3003gamedata.firebaseio.com",
+    "project_id": "cz3003gamedata",
+    "storage_bucket": "cz3003gamedata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67239517960:android:7f89eb7329770d690556bd",
+        "android_client_info": {
+          "package_name": "com.NTU.DifficultGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67239517960-mmt219nvhjfjn382cgbod7295cq81nqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAWPOffEJmDMVg6Rc7wOxO3wqwUR5a44o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67239517960-mmt219nvhjfjn382cgbod7295cq81nqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
