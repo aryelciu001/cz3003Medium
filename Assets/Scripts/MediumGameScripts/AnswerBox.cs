@@ -22,10 +22,4 @@ public class AnswerBox : MonoBehaviour
         Text text = GetComponentInChildren<Text>();
         text.text = ans;
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
 }
